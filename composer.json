@@ -1,0 +1,11 @@
+{
+    "name": "yavuz/test",
+    "autoload": {
+        "psr-4": {
+            "Yavuz\\Test\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/http-client": "^6.2"
+    }
+}
